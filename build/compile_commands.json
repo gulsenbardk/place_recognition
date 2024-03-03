@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/opencv4 -I/home/gulsen/Feb24/bow/include -std=gnu++17 -o CMakeFiles/image_browser.dir/src/html_writer.cpp.o -c /home/gulsen/Feb24/bow/src/html_writer.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/html_writer.cpp",
+  "output": "CMakeFiles/image_browser.dir/src/html_writer.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/opencv4 -I/home/gulsen/Feb24/bow/include -std=gnu++17 -o CMakeFiles/image_browser.dir/src/image_browser.cpp.o -c /home/gulsen/Feb24/bow/src/image_browser.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/image_browser.cpp",
+  "output": "CMakeFiles/image_browser.dir/src/image_browser.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/home/gulsen/Feb24/bow/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/serialization.dir/src/serialize.cpp.o -c /home/gulsen/Feb24/bow/src/serialize.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/serialize.cpp",
+  "output": "CMakeFiles/serialization.dir/src/serialize.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/home/gulsen/Feb24/bow/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/convert_dataset.dir/src/convert_dataset.cpp.o -c /home/gulsen/Feb24/bow/src/convert_dataset.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/convert_dataset.cpp",
+  "output": "CMakeFiles/convert_dataset.dir/src/convert_dataset.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/home/gulsen/Feb24/bow/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/kmeans.dir/src/kmeans.cpp.o -c /home/gulsen/Feb24/bow/src/kmeans.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/kmeans.cpp",
+  "output": "CMakeFiles/kmeans.dir/src/kmeans.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/home/gulsen/Feb24/bow/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/bow_dictionary.dir/src/bow_dictionary.cpp.o -c /home/gulsen/Feb24/bow/src/bow_dictionary.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/bow_dictionary.cpp",
+  "output": "CMakeFiles/bow_dictionary.dir/src/bow_dictionary.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/home/gulsen/Feb24/bow/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/histogram.dir/src/histogram.cpp.o -c /home/gulsen/Feb24/bow/src/histogram.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/histogram.cpp",
+  "output": "CMakeFiles/histogram.dir/src/histogram.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/home/gulsen/Feb24/bow/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/recognition.dir/src/recognition.cpp.o -c /home/gulsen/Feb24/bow/src/recognition.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/recognition.cpp",
+  "output": "CMakeFiles/recognition.dir/src/recognition.cpp.o"
+},
+{
+  "directory": "/home/gulsen/Feb24/bow/build",
+  "command": "/usr/bin/c++  -I/home/gulsen/Feb24/bow/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/gulsen/Feb24/bow/src/main.cpp",
+  "file": "/home/gulsen/Feb24/bow/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]

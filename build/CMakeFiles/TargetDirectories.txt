@@ -1,0 +1,10 @@
+/home/gulsen/Feb24/bow/build/CMakeFiles/image_browser.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/serialization.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/convert_dataset.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/kmeans.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/bow_dictionary.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/histogram.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/recognition.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/main.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/edit_cache.dir
+/home/gulsen/Feb24/bow/build/CMakeFiles/rebuild_cache.dir
