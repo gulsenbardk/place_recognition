@@ -24,6 +24,9 @@ void PlaceRecognitionApplication(const std::filesystem::path &images_path,
 
   if (!filesystem::exists(images_path.parent_path().parent_path() / "bin")) {
     ipb::serialization::sifts::ConvertDataset(images_path);
+    std::cerr << "Precomputation for image descriptors is done, you will see "
+                 "Segmentation Fault error, please run it again to continue!"
+              << std::endl;
   }
 
   std::filesystem::path descriptors_path =
