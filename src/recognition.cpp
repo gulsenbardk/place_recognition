@@ -98,12 +98,13 @@ void PlaceRecognitionApplication(const std::filesystem::path &images_path,
 
   size_t row_size = Scored_images.size() / 3;
   std::vector<image_browser::ImageRow> triads = {};
-  for (size_t j = 0; j < Scored_images.size(); j += 3) {
-    const image_browser::ImageRow triad{Scored_images[j], Scored_images[j + 1],
-                                        Scored_images[j + 2]};
+  for (size_t i = 0; i < row_size; i++) {
+
+    const image_browser::ImageRow triad{Scored_images[i * 3],
+                                        Scored_images[i * 3 + 1],
+                                        Scored_images[i * 3 + 2]};
     triads.push_back(triad);
   }
-
   const std::string title = "Place Recognition";
   const std::string stylesheet = "style.css";
   std::streambuf *coutBuffer = std::cout.rdbuf();
