@@ -1,5 +1,8 @@
 # Place Recognition Application 
 
+## Description 
+This project has been done for Modern C++ Course for Computer Vision on the Geodetic Engineering Master Program, Mobile Sensing and Robotics specilization at University of Bonn in 2024. Homework materials can be found in [course webpage](https://www.ipb.uni-bonn.de/teaching/cpp-2020/homeworks/index.html). Course videos that is taught by Ignacio Vizzo and Prof. Cyrill Stachniss can be found in Prof. Cyrill Stachniss Youtube [playlist](https://www.youtube.com/watch?v=sZK6ouwREXA&list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA&index=1).
+
 ## Data location 
 
 Please locate your images dataset into `"place_recognition/data/images/"`.
